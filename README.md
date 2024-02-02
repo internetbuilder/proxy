@@ -1,4 +1,4 @@
-react-router-proxy-loader
+#"react-router-proxy-loader
 =========================
 
 Based on [react-proxy-loader](https://github.com/webpack/react-proxy-loader), adapted for `react-router` route handlers.
